@@ -1,0 +1,4 @@
+# Gym Website
+<p>I have embarked on a journey to become a full-stack developer and decided to begin with front-end development. To start, I focused on learning HTML and CSS. After gaining a fundamental understanding of these technologies, I applied my knowledge to create my first project: a simple landing page for a gym website.
+
+The project involves designing a visually appealing and user-friendly landing page that showcases the gym's key features and services. The landing page is constructed using basic HTML for the structure and CSS for styling, demonstrating my initial skills in creating and designing web pages.</p>
